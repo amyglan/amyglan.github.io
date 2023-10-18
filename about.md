@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tagline: Akshay's Personal Blog
+tagline: Akshay
 ---
 
 I like to design systems, can write code and I host people in Himalayas.
