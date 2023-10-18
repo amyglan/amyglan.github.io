@@ -1,10 +1,10 @@
 title: Akshay's Website
 description: I like to design systems, write code and host people in Himalayas.
 
-url: https://long-haul.netlify.app
+url: https://amyglan.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
-
+header: small
 # Header Option
 # header: large
 
