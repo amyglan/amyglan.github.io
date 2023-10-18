@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Me
-tagline: Max Base
+tagline: Akshay's Personal Blog
 ---
 
-I’m a compiler engineer, low-level developer and full-stack programmer in the world like others.
+I like to design systems, can write code and I host people in Himalayas.
 
 #### Because this page contains some private information, you need a password to view the details.
 
