@@ -28,12 +28,12 @@ body {
 
 // Text Selection Styling
 ::-moz-selection {
-	background: $primary-color;
+	background: #3D9970;
 	color: white;
 }
 
 ::selection {
-	background: $primary-color;
+	background: #3D9970;
 	color: white;
 }
 
@@ -283,7 +283,7 @@ POST STYLING
 	}
 
 	.dropcap {
-		color: $primary-color;
+		color: #3D9970;
 		margin-right: 0.45rem;
 	}
 
@@ -418,7 +418,7 @@ FOOTER STYLING
 						height: 100%;
 
 						.outer-shape {
-							fill: $primary-color;
+							fill: #3D9970;
 						}
 
 						.inner-shape {
@@ -431,7 +431,7 @@ FOOTER STYLING
 					a {
 						svg {
 							.outer-shape {
-								fill: darken($primary-color, 10%);
+								fill: darken(#3D9970, 10%);
 							}
 						}
 					}
