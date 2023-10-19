@@ -28,12 +28,12 @@ body {
 
 // Text Selection Styling
 ::-moz-selection {
-	background: #3D9970;
+	background: $primary-color;
 	color: white;
 }
 
 ::selection {
-	background: #3D9970;
+	background: $primary-color;
 	color: white;
 }
 
