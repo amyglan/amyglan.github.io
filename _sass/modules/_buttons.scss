@@ -3,7 +3,7 @@ BUTTON DEFAULTS
 ***************/
 
 %btn {
-  background-color: #3D9970;
+  background-color: $background-color;
   display: inline-block;
   position: relative;
   font-family: $sans-serif;
@@ -23,7 +23,7 @@ BUTTON DEFAULTS
   &:hover, &:focus {
     color: $white;
     text-decoration: none;
-    background-color: darken(#3D9970, 10%);
+    background-color: darken($background-color, 10%);
   } // end hover
 
   // clicking on the button
@@ -66,7 +66,7 @@ BUTTON DEFAULTS
   color: #3D9970;
 
   &:hover {
-    background-color: #3D9970;
+    background-color: $background-color;
     color: $white;
   }
 }
