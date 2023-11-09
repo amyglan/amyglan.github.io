@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Flow"
+date: 2023-11-09
+description: Will Write And Edit
+---
+
+<p class="intro"><span class="dropcap">C</span> It's hard to write isn't it, although gives a clarity of thought.</p>
