@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Work"
+date: 2023-08-31
+description: Things to Do
+---
+
+<p class="intro"> Following are list of things I need to complete in next one year (not exhaustive, not in any order).</p>
+
+<p class="h2"> Study Cryptography </p>
+
+Here are some excellent resources to study cryptography:
+
+1. <a href="https://theswissbay.ch/pdf/Books/Computer%20science/Cryptography/SeriousCryptography.pdf">Serious Cryptography</a>
+2. <a href="https://cryptohack.org/">Crypto Hack</a>
