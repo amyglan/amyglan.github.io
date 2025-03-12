@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Work"
-date: 2023-08-31
+date: 2025-03-12
 description: Things to Do
 ---
 
@@ -13,3 +13,4 @@ Here are some excellent resources to study cryptography:
 
 1. <a href="https://theswissbay.ch/pdf/Books/Computer%20science/Cryptography/SeriousCryptography.pdf">Serious Cryptography</a>
 2. <a href="https://cryptohack.org/">Crypto Hack</a>
+3. <a href="https://overthewire.org/">overthewire</a>
