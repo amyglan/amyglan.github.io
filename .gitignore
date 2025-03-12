@@ -1,0 +1,21 @@
+# Ignore node_modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.jekyll-migrate
+.idea/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Ruby and bundle dependencies
+.bundle/
+vendor/
